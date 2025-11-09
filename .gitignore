@@ -1,0 +1,46 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+# See https://github.com/github/gitignore/blob/main/VisualStudio.gitignore for reference
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+artifacts/
+publish/
+
+# VS Code - ignore everything but keep launch/tasks/settings if you want to commit them
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+# Visual Studio cache
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+project.assets.json
+project.nuget.cache
+project.lock.json
+
+# Rider
+.idea/
+
+# DotNet Core
+*.dbmdl
+*.log
+*.vsix
+
+# User secrets
+secrets.json
+
+# OS files
+Thumbs.db
+.DS_Store
