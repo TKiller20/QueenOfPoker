@@ -19,6 +19,7 @@ publish/
 !.vscode/launch.json
 !.vscode/tasks.json
 !.vscode/settings.json
+.vscode/
 
 # Visual Studio cache
 .vs/
